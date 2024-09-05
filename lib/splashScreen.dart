@@ -18,14 +18,7 @@ class SplashScreen extends StatelessWidget {
           children: <Widget>[
             SizedBox(height: 20),
             Image.asset("asset/mintologo- 1.png",scale: 4,),
-            // Text(
-            //   'MINTO',
-            //   style: TextStyle(
-            //     fontSize: 36,
-            //     color: Colors.black,
-            //     fontWeight: FontWeight.bold,
-            //   ),
-            // ),
+
           ],
         ),
       ),

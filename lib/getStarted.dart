@@ -42,14 +42,7 @@ class GetStartedScreen extends StatelessWidget {
           ),
           
         )
-        // Column(
-        //   mainAxisAlignment: MainAxisAlignment.center,
-        //   crossAxisAlignment: CrossAxisAlignment.center,
-        //   children: [
-        //     Text("  MINTO",textAlign: TextAlign.end,
-        //     style:TextStyle(fontWeight:FontWeight.bold,fontSize: 40),),
-        //   ],
-        // ),
+
       ),
     );
   }
